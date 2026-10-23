@@ -174,8 +174,7 @@ Only keep these paths after adding the corresponding image files.
 Built as a personal portfolio project to practice building a complete
 e-commerce experience with React and Next.js.
 
-- **GitHub:** `<YOUR_GITHUB_PROFILE>`
-- **Live Demo:** `<YOUR_DEPLOYED_URL>` (if available)
+- **GitHub:** https://github.com/AghelanKing
 
 ---
 
